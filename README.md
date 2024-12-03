@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elgela
-- 👀 I’m interested in ...
+- 👀 I’m interested in create web pages
 - 🌱 I’m currently learning TUDAI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I am looking to collaborate in the creation of different websites
+- 📫 To contact me, send me an email to gelatomarcelo77@gmail.com
 
 <!---
 elgela/elgela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
