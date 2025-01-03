@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elgela
-- 👀 I’m interested in create web pages
+- 👀 I’m creating web pages
 - 🌱 I’m currently learning TUDAI
 - 💞️ I am interested in creating different websites
 - 📫 To contact me, send me an email to gelatomarcelo77@gmail.com
